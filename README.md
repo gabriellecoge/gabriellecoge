@@ -8,10 +8,10 @@ Formada em Administração, hoje construindo carreira na interseção entre fina
 
 | Projeto | O que faz | Feito com |
 |---|---|---|
-| Leitor de Extratos Bancários | Lê PDFs de extratos de Caixa, Banco do Brasil e Bradesco e gera planilha de conciliação em Excel | Python · pdfplumber · openpyxl |
-| [Calculadora CDI / Juros Compostos](https://github.com/gabriellecoge/calculadora-juros-compostos) | Simula rendimento com taxas reais consumidas da API do Banco Central | Python · API Bacen · Streamlit |
+| [Cogito, Financeiro](https://github.com/gabriellecoge/agente-financeiro-Cogito) | Agente de educação financeira com LLM local, interface de chat e isolamento de dados por cliente | Python · Ollama · Streamlit |
+| [Calculadora CDI / Juros Compostos](https://github.com/gabriellecoge/calculadora-juros-compostos) | Simula rendimento com taxas reais consumidas da API do Banco Central | Python · Pandas · Streamlit |
 | [Detecção de Fraudes](https://github.com/gabriellecoge/LLM-FRAUDES) | Modelo de Machine Learning que identifica transações suspeitas por valor, horário e distância | Python · scikit-learn · Pandas |
-| [Pesquisa de Clientes](https://github.com/gabriellecoge/pesquisa-cliente) | Análise de 23 mil avaliações de e-commerce de moda e modelo que identifica clientes insatisfeitas pelo texto da avaliação | Python · Pandas · scikit-learn |
+| Leitor de Extratos Bancários | Lê extratos em PDF e gera planilha de conciliação em Excel | Python · pdfplumber · openpyxl |
 
 ### 🎯 No que estou trabalhando agora
 
